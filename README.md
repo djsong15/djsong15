@@ -1,0 +1,3 @@
+- Hello, I’m @misternorae
+- I'm currently teaching myself HTML, CSS, and JavaScript via the Odin Project with the goal of having a firm grasp on frontend development fundamentals.
+- Excited to be starting this journey! 👋 🤓 💻
