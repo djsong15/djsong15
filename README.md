@@ -1,3 +1,4 @@
-- Hello, I’m Daniel!
-- I'm currently teaching myself HTML, CSS, and JavaScript via the Odin Project with the goal of having a firm grasp on frontend development fundamentals.
-- Excited to be starting this journey! 👋 🤓 💻
+- Hello, I’m Daniel.
+- During the COVID-19 pandemic, I taught myself some basic HTML, CSS, and JavaScript via the Odin Project.
+- I currently exercise these skills in my work by automating various recruiting processes and simplifying how my team tracks and reports data.
+- 👋 🤓 💻
