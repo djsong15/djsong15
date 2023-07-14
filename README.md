@@ -1,4 +1,5 @@
 - Hello, I’m Daniel.
-- During the COVID-19 pandemic, I taught myself some basic HTML, CSS, and JavaScript via the Odin Project.
-- I currently exercise these skills in my work by automating various recruiting processes, simplifying how my team tracks and reports data, and being a Google Apps Script expert in my org.
+- During the COVID-19 pandemic, I began to teach myself some basic HTML, CSS, and JavaScript via the Odin Project.
+- I then used these skills in my job to automate various recruiting processes and simplify how my teams track and report data via Google Apps Script.
+- Currently, I am enrolled in a bootcamp to further my studies and become full-fledged programmer.
 - 👋 🤓 💻
