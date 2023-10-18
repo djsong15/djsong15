@@ -2,4 +2,4 @@
 - During the COVID-19 pandemic, I began to teach myself some basic HTML, CSS, and JavaScript via the Odin Project.
 - I then used these skills in my job to automate various recruiting processes and simplify how my teams track and report data via Google Apps Script.
 - Currently, I am enrolled in a bootcamp to further my studies and become full-fledged programmer.
-- 👋 🤓 💻
+- Welcome 👋 🤓 💻
