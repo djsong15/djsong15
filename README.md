@@ -7,7 +7,7 @@
 - React
 - Redux Toolkit
 - TypeScript/JavaScript
-- Express
+- Express/Node
 - MongoDB
 - PostgreSQL
 - CSS & HTML
