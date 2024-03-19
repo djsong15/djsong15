@@ -4,12 +4,12 @@
 🤔 I then applied these skills in my recruiting operations work to automate various recruiting processes and simplify how my teams track and report data using Google Apps Script.
 
 🎓 I recently completed my technical residency at Codesmith and am actively looking for full-stack developer roles. I am adept in:
-- React
-- Redux Toolkit
-- TypeScript/JavaScript
-- Express/Node
-- MongoDB
-- PostgreSQL
-- CSS & HTML
+- React ⚛️
+- Redux Toolkit 🧪
+- TypeScript/JavaScript ⌨️
+- Express/Node 🚂
+- MongoDB 🍃
+- PostgreSQL 🐘
+- CSS & HTML ✍️
 
 **Welcome to my GitHub** 👋 🤓 💻
