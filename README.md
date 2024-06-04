@@ -1,20 +1,10 @@
 # Hello, I’m Daniel.
 🧠 Currently learning:
-- Graphs
-- Heaps
-- Python
-- Ruby
+Trees/Graphs 🌲 | Heaps 🧺 | Python 🐍 | Ruby 💎 
 
 👨🏻‍💻 Stuff I know:
-- React
-- Redux Toolkit
-- TypeScript
-- JavaScript
-- Express
-- Node.js
-- MongoDB
-- PostgreSQL
-- CSS
-- HTML
+- TypeScript | JavaScript | HTML | CSS
+- React | Redux Toolkit
+- Express | Node.js | MongoDB | PostgreSQL
 
 **Welcome to my GitHub** 👋 
