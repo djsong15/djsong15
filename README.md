@@ -1,6 +1,6 @@
 # Hello, I’m Daniel.
 🧠 Currently learning:
-Trees/Graphs 🌲 | Heaps 🧺 | Python 🐍 | Ruby 💎 
+Graphs 🗺️ | Heaps 🧺 | Python 🐍 | Ruby 💎 
 
 👨🏻‍💻 Stuff I know:
 - TypeScript | JavaScript | HTML | CSS
