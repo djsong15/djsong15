@@ -1,9 +1,12 @@
 # Hello, I’m Daniel.
 🧠 Currently learning:
-Graphs 🗺️ | Heaps 🧺 | Tries 🔤 | Dynamic Programming 🪙 | Python 🐍 | Ruby 💎 
+Data Structures & Algorithms
+- Graphs 🗺️ | Tries 🔤 | Dynamic Programming 🪙
+Programming Languages
+- Python 🐍
 
 👨🏻‍💻 Stuff I know:
-- TypeScript | JavaScript | HTML | CSS
+- TypeScript | JavaScript | HTML | CSS | Python
 - React | Express | Node.js | PostgreSQL | MongoDB
 
 **Welcome to my GitHub** 👋 
