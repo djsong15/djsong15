@@ -1,11 +1,9 @@
 # Hello, I’m Daniel.
 🧠 Currently learning:
-
-Data Structures & Algorithms
-- Graphs 🗺️ | Tries 🔤 | Dynamic Programming 🪙
-
-Programming Languages
-- Python 🐍
+- Data Structures & Algorithms
+  - Graphs 🗺️ | Tries 🔤 | Dynamic Programming 🪙
+- Programming Languages
+  - Python 🐍
 
 👨🏻‍💻 Stuff I know:
 - TypeScript | JavaScript | HTML | CSS | Python
