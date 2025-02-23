@@ -9,4 +9,4 @@
 - TypeScript | JavaScript | HTML | CSS | Python
 - React | Express | Node.js | PostgreSQL | MongoDB
 
-**Welcome to my GitHub** 👋 
+![Leetcode Stats](https://leetcard.jacoblin.cool/djsong15)
