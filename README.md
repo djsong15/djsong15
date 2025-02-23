@@ -9,4 +9,4 @@
 - TypeScript | JavaScript | HTML | CSS | Python
 - React | Express | Node.js | PostgreSQL | MongoDB
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/djsong15/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/djsong15?ext=heatmap?ext=activity)
