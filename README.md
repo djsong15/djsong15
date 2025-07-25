@@ -1,8 +1,8 @@
 # Hello, I’m Daniel.
 🧠 Currently learning:
-- Data Structures & Algorithms
-  - Graphs 🗺️ | Dynamic Programming 🪙
+- System Design | Distributed Systems 🏛️
 - Programming Languages
+  - Go 🏎️
   - Python 🐍
 
 👨🏻‍💻 Stuff I know:
