@@ -1,9 +1,10 @@
 # Hello, I’m Daniel.
 🧠 Currently learning:
 - System Design | Distributed Systems 🏛️
+- OOP 📦
 - Programming Languages
-  - Go 🏎️
   - Python 🐍
+  - Java ☕️
 
 👨🏻‍💻 Stuff I know:
 - TypeScript | JavaScript | HTML | CSS | Python
